@@ -22,7 +22,7 @@
     },
     {
       "id": 3,
-      "name": "sleeping Shoes",
+      "name": "Sleeping Shoes",
       "price": 59.99,
       "category": "Footwear",
       "stock": 20,
@@ -50,6 +50,62 @@
       "description": "Durable backpack suitable for travel and daily use",
       "image": "https://via.placeholder.com/150"
     }
+  ],
+  "books": [
+    {
+      "id": 1,
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "price": 18.99,
+      "category": "Self-help",
+      "stock": 25,
+      "rating": 4.8,
+      "publishedYear": 2018,
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 2,
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "price": 14.99,
+      "category": "Fiction",
+      "stock": 40,
+      "rating": 4.7,
+      "publishedYear": 1988,
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 3,
+      "title": "Clean Code",
+      "author": "Robert C. Martin",
+      "price": 32.5,
+      "category": "Programming",
+      "stock": 15,
+      "rating": 4.9,
+      "publishedYear": 2008,
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 4,
+      "title": "Rich Dad Poor Dad",
+      "author": "Robert T. Kiyosaki",
+      "price": 16.0,
+      "category": "Finance",
+      "stock": 30,
+      "rating": 4.6,
+      "publishedYear": 1997,
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 5,
+      "title": "The Pragmatic Programmer",
+      "author": "Andrew Hunt & David Thomas",
+      "price": 35.0,
+      "category": "Programming",
+      "stock": 10,
+      "rating": 4.9,
+      "publishedYear": 1999,
+      "image": "https://via.placeholder.com/150"
+    }
   ]
- 
 }
